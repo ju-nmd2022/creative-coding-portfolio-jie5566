@@ -1,7 +1,7 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/mountain_01.js",
+    "name": "mountain landscape using perling noise",
+    "description": "I used perlin noises for the birds and the mountains, This is an Asian mountain landscape in water color style, I would like to create a peaceful feeling. Future possible steps might be have Chinese letters writing, add peaceful music, let the bird fly."
   }
 ]
