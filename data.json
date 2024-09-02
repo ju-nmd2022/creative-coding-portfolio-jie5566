@@ -3,5 +3,10 @@
     "file": "experiments/mountain_01.js",
     "name": "mountain landscape using perling noise",
     "description": "I used perlin noises for the birds and the mountains, This is an Asian mountain landscape in water color style, I would like to create a peaceful feeling. Future possible steps might be have Chinese letters writing, add peaceful music, let the bird fly."
+  },
+  {
+    "file": "experiments/molna_variation_01.js",
+    "name": "molna variation 1",
+    "description": "I changed color to black and green from molna's example, and I also add mouse interative feature for it, the pattern becomes more ordered depending on where the mouse is."
   }
 ]
