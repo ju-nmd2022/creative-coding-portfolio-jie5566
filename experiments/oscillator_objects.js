@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(0);
+  background(255);
   // Run all objects
   for (let i = 0; i < oscillators.length; i++) {
     oscillators[i].update();
@@ -38,7 +38,7 @@ class Oscillator {
     let y = sin(this.angle.y) * this.amplitude.y;
 
     push();
-    translate(width / 2, height / 3);
+    translate(width / 2, height / 2);
     stroke(0, random(255), random(255));
     strokeWeight(0.5);
     fill(0, random(255), random(255));
