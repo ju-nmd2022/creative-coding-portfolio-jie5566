@@ -7,7 +7,7 @@
   {
     "file": "experiments/molna_variation.js",
     "name": "molna variation",
-    "description": "I changed color to black and green from molna's example, and I also add mouse interative feature for it, the pattern changes depending on where the mouse is."
+    "description": "I changed color to black and green from molna's example, and I also add mouse interative feature for it, the pattern changes depending on the mouse moving from left to right."
   },
   {
     "file": "experiments/oscillator_objects.js",
@@ -19,6 +19,12 @@
     "name": "Gravitational attraction variation",
     "description": "The Element's movement toward the Attractor feels unstoppable, like a planet being pulled into orbit by a larger object. It draws a pattern would look like a bright, swirling vortex with a glowing center."
   },
+  {
+    "file": "experiments/flow_fields.js",
+    "name": "Flow fields variation",
+    "description": "The combination of the structured circle and the fluid, feel the associations with nature, like swirling in the water."
+  },
+
   {
     "file": "experiments/tree.js",
     "name": "not finished",
