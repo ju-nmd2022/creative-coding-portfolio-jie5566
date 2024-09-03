@@ -39,9 +39,9 @@ class Oscillator {
 
     push();
     translate(width / 2, height / 2);
-    stroke(0, random(255), random(255));
+    stroke(0, 0, random(100, 255));
     strokeWeight(0.5);
-    fill(0, random(255), random(255));
+    fill(50, 50, random(100, 255));
     line(0, 0, x, y);
     circle(x, y, 30);
     pop();

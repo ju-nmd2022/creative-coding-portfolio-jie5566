@@ -22,7 +22,7 @@ class Element {
   }
 
   draw() {
-    fill(0, random(100, 255), random(100, 255));
+    fill(0, 200, 200);
     ellipse(this.position.x, this.position.y, this.size);
     noStroke();
   }
