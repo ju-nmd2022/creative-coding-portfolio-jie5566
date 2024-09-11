@@ -7,7 +7,7 @@
 function setup() {
   createCanvas(800, 400);
   pixelDensity(1);
-  frameRate(15);
+  frameRate(13);
 }
 
 function draw() {
@@ -28,7 +28,7 @@ function draw() {
   // Adjust bird count based on brightness
   let birdCount;
   if (brightness > 150) {
-    birdCount = random(8, 16); // More birds when bright
+    birdCount = random(0, 8); // More birds when bright
   } else {
     birdCount = random(1, 3); // Fewer birds when dark
   }
@@ -97,7 +97,7 @@ function drawSimpleBird(x, y, size) {
 function drawSun(sunX, sunY) {
   let sunSize = 60;
 
-  fill(150, 57, 57, 100);
+  fill(150, 57, 57, 255);
   noStroke();
   ellipse(sunX, sunY, sunSize, sunSize);
 }

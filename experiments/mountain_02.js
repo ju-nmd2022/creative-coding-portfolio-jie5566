@@ -97,7 +97,7 @@ function drawSimpleBird(x, y, size) {
 function drawSun(sunX, sunY) {
   let sunSize = 60;
 
-  fill(150, 57, 57, 100);
+  fill(150, 57, 57, 255);
   noStroke();
   ellipse(sunX, sunY, sunSize, sunSize);
 }
