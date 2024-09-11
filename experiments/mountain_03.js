@@ -19,7 +19,7 @@ function draw() {
   let brightness = map(sunY, height - sunRadius, height, 255, 120); // Bright when sun is high, darker as it gets low
   brightness = constrain(brightness, 120, 255); // Set a lower limit to avoid being too dark
 
-  background(brightness, brightness * 0.875, brightness * 0.775); // Adjust background color
+  background(brightness, brightness * 0.875, brightness * 0.775, 80); // Adjust background color
 
   drawSun(sunX, sunY);
   noiseSeed(2); // Keep the mountains consistent
@@ -46,7 +46,7 @@ function draw() {
     }
   }
 
-  drawWatercolorPaperEffect();
+  // drawWatercolorPaperEffect();
 }
 
 function drawMountains() {

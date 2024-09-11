@@ -9,7 +9,11 @@
     "name": "mountain landscape 2",
     "description": "It is a varation from mountain 1, now there is an animation of sunrise and sunset, the sky becomes darker when the mountains cover the sun, to increase the feeling of How Time Flies."
   },
-
+  {
+    "file": "experiments/mountain_03.js",
+    "name": "mountain landscape 3",
+    "description": "It is a varation from mountain 1, now there is an animation of sunrise and sunset, I create a fading trace behind the moving sun, and the birds are also have a slight movement, to increase the feeling of How Time Flies."
+  },
   {
     "file": "experiments/molna_variation.js",
     "name": "perlin noise variation",
@@ -35,5 +39,11 @@
     "file": "experiments/tree.js",
     "name": "not finished",
     "description": "here I will do a tree full of spring feeling"
+  },
+
+  {
+    "file": "experiments/spiral_betty.js",
+    "name": "spinning circles",
+    "description": "this is a project with spinning effect"
   }
 ]
