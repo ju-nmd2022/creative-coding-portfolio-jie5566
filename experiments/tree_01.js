@@ -12,8 +12,6 @@ function setup() {
 function draw() {
   background(222, 173, 40);
   fill(0);
-  //text("Click mouse to generate a new tree", 10, height-20);
-
   stroke(0);
   // Start the tree from the bottom of the screen
   translate(random(100, width - 100), height);

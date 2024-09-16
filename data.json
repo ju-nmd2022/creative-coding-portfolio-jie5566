@@ -43,5 +43,10 @@
     "file": "experiments/tree_02.js",
     "name": "nature_02",
     "description": "this is the variation from tree_01.js, I chose to make the showcase more random, looking organic and relaxing."
+  },
+  {
+    "file": "experiments/tree_03.js",
+    "name": "nature_03",
+    "description": "there will be a plant growing in the canvas"
   }
 ]
