@@ -1,5 +1,16 @@
 [
   {
+    "file": "experiments/tree_02.js",
+    "name": "nature_02",
+    "description": "this is the variation from tree_01.js, I chose to make the showcase more random, looking organic and relaxing."
+  },
+  {
+    "file": "experiments/tree_01.js",
+    "name": "nature_01",
+    "description": "I use Daniel's The Nature of Code as a base, it is changing the position where the plant grows when people click"
+  },
+
+  {
     "file": "experiments/mountain_01.js",
     "name": "mountain landscape using perling noise",
     "description": "I used perlin noises for the birds and the mountains, This is an Asian mountain landscape in water color style, I would like to create a peaceful feeling. Future possible steps might be have Chinese letters writing, add peaceful music, let the bird fly."
@@ -33,17 +44,5 @@
     "file": "experiments/flow_fields.js",
     "name": "Flow fields variation",
     "description": "The combination of the structured circle and the fluid, feel the associations with nature, gives a depressed feeling when it becomes darker."
-  },
-
-  {
-    "file": "experiments/tree.js",
-    "name": "not finished",
-    "description": "here I will do a tree full of spring feeling"
-  },
-
-  {
-    "file": "experiments/spiral_betty.js",
-    "name": "spinning circles",
-    "description": "this is a project with spinning effect"
   }
 ]

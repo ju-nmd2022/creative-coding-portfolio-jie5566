@@ -1,4 +1,4 @@
-// I use Daniel's The Nature of Code as a base, do some variations.
+// I use Daniel's The Nature of Code as a base, do some variations.firstly, I change the background color. secondly, I change the presentence randomly showing in the x position.
 //-----------------------------------------------------------------
 
 let yoff = 0;
