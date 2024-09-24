@@ -24,6 +24,7 @@ function draw() {
   drawSun(sunX, sunY);
   noiseSeed(2); // Keep the mountains consistent
   drawMountains();
+  // drawWatercolorPaperEffect();
 
   // Adjust bird count based on brightness
   let birdCount;
@@ -45,8 +46,6 @@ function draw() {
       drawSimpleBird(x, y, size);
     }
   }
-
-  // drawWatercolorPaperEffect();
 }
 
 function drawMountains() {
