@@ -20,6 +20,11 @@
     "description": "It is a varation from mountain 1, now there is an animation of sunrise and sunset, I create a fading trace behind the moving sun, and the birds are also have a slight movement, to increase the feeling of How Time Flies."
   },
   {
+    "file": "experiments/mountain_04.js",
+    "name": "mountain landscape 4",
+    "description": "sound effect added, to create a ethereal feeling."
+  },
+  {
     "file": "experiments/molna_variation.js",
     "name": "perlin noise variation",
     "description": "I changed color to black and green from molna's example, and I also add mouse interative feature for it, the pattern changes depending on the mouse moving from left to right."
