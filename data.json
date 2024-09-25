@@ -58,5 +58,10 @@
     "file": "experiments/tree_03.js",
     "name": "nature_03",
     "description": "there will be a plant growing in the canvas"
+  },
+  {
+    "file": "experiments/tree_04.js",
+    "name": "nature_04",
+    "description": "sound effect added, to create a thriving feeling."
   }
 ]
